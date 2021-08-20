@@ -1,0 +1,35 @@
+/usr/local/bin/python3.9 /Users/yhuang8/Documents/tech/support-me-scripts/tickets/ch_2709/solution.py
+Processing record upto: 50
+Processing record upto: 100
+Failed finalizing checkouts count: 1 , they are: ['30428d69-2222-42e2-ac2e-1535fe8ef78e']
+Processing record upto: 150
+Processing record upto: 200
+Failed finalizing checkouts count: 1 , they are: ['4b88f924-f396-11eb-9add-876f54372f76']
+Processing record upto: 250
+Processing record upto: 300
+Processing record upto: 350
+Processing record upto: 400
+Processing record upto: 450
+Processing record upto: 500
+Processing record upto: 550
+Processing record upto: 600
+Processing record upto: 650
+Processing record upto: 700
+Processing record upto: 750
+Processing record upto: 800
+Failed finalizing checkouts count: 1 , they are: ['98f12b76-f393-11eb-943a-a78d37307e6f']
+Processing record upto: 850
+Failed finalizing checkouts count: 1 , they are: ['9ecd6b54-f393-11eb-82a2-a7dc9268dec4']
+Processing record upto: 900
+Processing record upto: 950
+Processing record upto: 1000
+Processing record upto: 1050
+Processing record upto: 1100
+Processing record upto: 1150
+Processing record upto: 1200
+Failed finalizing checkouts count: 5 , they are: ['bfa06980-f393-11eb-89da-9d3476febd53', 'c175c98a-f393-11eb-a599-1ddd750fc33d', 'c3296070-f393-11eb-a8e7-e1eccf569ed5', 'c4061542-f393-11eb-916d-e1af97322c0c', 'c5448b6e-f393-11eb-9305-4373f51f9493']
+Processing record upto: 1250
+Failed finalizing checkouts count: 1 , they are: ['cdd6547e-f393-11eb-a2c8-3f3919dc77a1']
+Processing record upto: 1300
+
+Process finished with exit code 0
